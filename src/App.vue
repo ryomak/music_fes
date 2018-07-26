@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <header-component/>
-    <img src="./assets/logo.png">
     <top/>
     <footer-component/>
   </div>
