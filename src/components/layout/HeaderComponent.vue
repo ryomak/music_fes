@@ -8,10 +8,11 @@
 					<div class="panel">
 						<ul>
 							<li><a href="#sec01">TOP</a></li>
-							<li><a href="#sec02">About</a></li>
-							<li><a href="#sec03">GALLERY</a></li>
-							<li><a href="#sec04">CONTACT</a></li>
-							<li><a href="#sec05">PLACE</a></li>
+							<li><a href="#sec02">ABOUT</a></li>
+							<li><a href="#sec03">SCHEDULE</a></li>
+							<li><a href="#sec04">GALLERY</a></li>
+							<li><a href="#sec05">CONTACT</a></li>
+							<li><a href="#sec06">PLACE</a></li>
 						</ul>
 					</div>
 				</nav>

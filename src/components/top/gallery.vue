@@ -2,7 +2,7 @@
 	<div class="gallery">
 		<section>
 				<h2><span>Gallery</span></h2>
-			<div class="innerS">
+			<div class="innerS te">
 				イベントで撮った写真をここにあげていきます．
 			</div>
 			<ul class="img">
@@ -45,4 +45,7 @@
 	height: auto;
 }
 
-</style>
+.te{
+	text-align: center;
+}
+</style> 
